@@ -1,0 +1,55 @@
+#sec01 {
+	position: relative;
+	height: 300px;
+}
+
+#sec02 {
+	position: relative;
+	height: 480px;
+	font-family: sans-serif;
+	border-bottom: 1px solid lightgray;
+}
+
+#sec02 {
+	padding-top: 30px;
+}
+
+#sec02 .verticalLine {
+	width: 100px;
+	height: 2px;
+	background: #31DDB7;
+	margin: 0 auto;
+}
+
+#sec02 .mainBenefitsText {
+	color: #9CA8B8;
+}
+
+#sec02 .mainBenefits h2, h3, h4 {
+	letter-spacing: 2px;
+	padding: 10px;
+}
+
+#sec02 .rowSection {
+	padding-top: 30px;
+}
+
+#sec03 {
+	position: relative;
+	height: 300px;
+}
+
+#sec04 {
+	position: relative;
+	height: 300px;
+}
+
+#sec05 {
+	position: relative;
+	height: 300px;
+}
+
+#sec06 {
+	position: relative;
+	height: 300px;
+}
